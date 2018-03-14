@@ -7,13 +7,13 @@
 
 ## Этапы:
 
-1. [Основы Node.JS](#1-Основы-nodejs)
+1. [Основы Node.JS](#osnovi-node-js)
 2. [Базовый курс по Node.JS](#2-Базовый-курс-по-nodejs)
 3. [Продвинутый Node.JS](#3-Продвинутый-nodejs)
 
 <hr/>
 
-# [1. Основы Node.JS](1-Основы-nodejs)
+# <a name="osnovi-node-js">1. Основы Node.JS</a>
 
 ### Обучающие материалы:
 - [Уроки по Node.JS (до 13)](https://www.youtube.com/playlist?list=PL0lO_mIqDDFX0qH9w5YQIDV6Wxy0oawet):

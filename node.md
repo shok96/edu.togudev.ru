@@ -7,13 +7,13 @@
 
 ## Этапы:
 
-1. [Основы Node.JS](#osnovi-node-js)
-2. [Базовый курс по Node.JS](#2-Базовый-курс-по-nodejs)
-3. [Продвинутый Node.JS](#3-Продвинутый-nodejs)
+1. [Основы Node.JS](#beginner)
+2. [Базовый курс по Node.JS](#base)
+3. [Продвинутый Node.JS](#advanced)
 
 <hr/>
 
-# <a name="osnovi-node-js">1. Основы Node.JS</a>
+# <a name="beginner">1. Основы Node.JS</a>
 
 ### Обучающие материалы:
 - [Уроки по Node.JS (до 13)](https://www.youtube.com/playlist?list=PL0lO_mIqDDFX0qH9w5YQIDV6Wxy0oawet):
@@ -26,7 +26,7 @@
 
 <hr/>
 
-# 2. Базовый курс по Node.JS
+# <a name="base">2. Базовый курс по Node.JS</a>
 ### Основы Koa + REST API:
 > <http://koajs.com> (Сайт)
 
@@ -48,7 +48,7 @@
 
 <hr/>
 
-# 3. Продвинутый Node.JS
+# <a name="advanced">3. Продвинутый Node.JS</a>
 ### Строгая типизация
 - [TypeScript (Документация, гайды, примеры)](https://www.typescriptlang.org/docs/home.html)
 

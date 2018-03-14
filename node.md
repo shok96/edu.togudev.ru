@@ -13,9 +13,9 @@
 
 <hr/>
 
-# 1. Основы Node.JS
+# [1. Основы Node.JS](#)
 
-### Обучающие материалы: 
+### Обучающие материалы:
 - [Уроки по Node.JS (до 13)](https://www.youtube.com/playlist?list=PL0lO_mIqDDFX0qH9w5YQIDV6Wxy0oawet):
 - [Различные руководство по Node.JS и библиотекам](https://nodeguide.ru/doc)
 - [Node.JS от А до Я от Ильи Кантора (Устарело)](https://www.youtube.com/playlist?list=PLsuEohlthXdkRSxJTkmTstWKHgBHsd3Dx)

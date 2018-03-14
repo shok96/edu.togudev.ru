@@ -13,7 +13,7 @@
 
 <hr/>
 
-# [1. Основы Node.JS](#)
+# [1. Основы Node.JS](1-Основы-nodejs)
 
 ### Обучающие материалы:
 - [Уроки по Node.JS (до 13)](https://www.youtube.com/playlist?list=PL0lO_mIqDDFX0qH9w5YQIDV6Wxy0oawet):

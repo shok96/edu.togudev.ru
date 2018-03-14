@@ -29,11 +29,11 @@
 # 2. Базовый курс по Node.JS
 ### Основы Koa + REST API:
 > <http://koajs.com> (Сайт)
-<!-- -->
+
 > <https://github.com/koajs/examples> (Примеры)
-<!-- -->
+
 > <https://github.com/koajs/koa/wiki> (Wiki)
-<!-- -->
+
 
 ### Руководство по MongoDB (Главы 1, 2) 
 > <https://metanit.com/nosql/mongodb>

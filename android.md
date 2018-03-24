@@ -5,6 +5,7 @@
   
   2 [Java. Базовый курc. Stepic](https://stepik.org/course/187)
 
+  3 [Android Basics: User Interface (EN)](https://www.udacity.com/course/android-basics-user-interface--ud834)
 	
 ## Уровень 0+
 

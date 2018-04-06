@@ -7,7 +7,7 @@
 
 ## Аутентификация
 
-**JWT**
+**JSON Web Token (JWT)**
 
 * [Аутентификация на основе токенов (JWT)](https://gist.github.com/zmts/802dc9c3510d79fd40f9dc38a12bccfc)
 * [Understanding Refresh Tokens](https://auth0.com/learn/refresh-tokens/)

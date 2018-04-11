@@ -9,11 +9,13 @@
 	
 ## Уровень 0+
 
-   1 [Разработка на Android. Технострим](https://www.youtube.com/watch?v=pIj-Gp6COEc&list=PLrCZzMib1e9ptI7bPXFG8X5xEiCBt5qYE)
+   1 [Быстрый старт в Android-разработку](https://stepik.org/course/6022/syllabus)
    
    2 [Start Android (RU)](https://www.youtube.com/watch?v=ac8y518CIng&list=PLyfVjOYzujugap6Rf3ETNKkx4v9ePllNK&index=1) 
+
+   3 [Разработка на Android. Технострим](https://www.youtube.com/watch?v=pIj-Gp6COEc&list=PLrCZzMib1e9ptI7bPXFG8X5xEiCBt5qYE)
    
-   3 [Developing Android Apps by Google (EN)](https://www.udacity.com/course/new-android-fundamentals--ud851)
+   4 [Developing Android Apps by Google (EN)](https://www.udacity.com/course/new-android-fundamentals--ud851)
    
 ## Уровень 1
 

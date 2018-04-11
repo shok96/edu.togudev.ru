@@ -72,6 +72,11 @@
 * Что такое саги
 * Как подключить и работать с redux-saga
 
+## Аутентификация и авторизация
+
+* [Adding Authentication to Your React Flux App](https://auth0.com/blog/adding-authentication-to-your-react-flux-app/)
+* Авторизация поверх react-router
+
 ## GraphQL (Apollo Client)
 
 * Что такое GraphQL и чем он отличается от RESTful API

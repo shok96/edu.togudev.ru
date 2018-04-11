@@ -1,37 +1,64 @@
-# TOGUDEV — База Знаний
+<p align="center">
+  <img alt="React.js" src="https://img.tglab.uz/247594072/15234168855acd7f35a7540.png" />
+</p>
 
-### Разработка веб-сайтов
+# Содержание:
 
-#### Общее
+* Разработка веб-сайтов
+  * Бэкенд-разработка
+    * ASP.NET Core
+    * Node.js
+  * Фронтенд-разработка
+    * React.js
+* Разработка мобильных приложений
+  * Android
+  * Кросс-платформернные приложения
+* Разработка видеоигр
 
-* [Основы](/base.md)
-* [JavaScript](web/javascript/index.md)
+<hr/>
 
-#### Backend
+# Разработка веб-сайтов
 
-* [Backend-разработка](web/backend.md)
-* [Node.js](web/javascript/node-js.md)
+1.  Что такое бэкенд- и фронтенд-разработка
 
-#### Frontend
+## Бэкенд-разработка
 
-* [React.js](web/javascript/react-js.md)
+**ASP.NET Core**
 
-### Разработка мобильных приложений
+1.  [Основные инструменты разработчика](/base.md)
+2.  [Основы backend-разработки](web/backend.md)
+3.  [Язык программирования C#](web/csharp/index.md)
+4.  [Бэкенд-разработка на ASP.NET Core](web/csharp/asp-net-core.md)
 
-#### Общее
+**Node.js**
 
-* [Основы](/base.md)
+1.  [Основные инструменты разработчика](/base.md)
+2.  [Основы backend-разработки](web/backend.md)
+3.  [Язык программирования JavaScript](web/javascript/index.md)
+4.  [Бэкенд-разработка на Node.js](web/javascript/node-js.md)
 
-#### Android
+## Фронтенд-разработка
 
-* [Android](mobile/android.md)
+**React.js**
 
-#### Кросс-платформенные приложения
+1.  [Основные инструменты разработчика](/base.md)
+2.  Основы HTML и CSS (скоро...)
+3.  [Язык программирования JavaScript](web/javascript/index.md)
+4.  [Фронтенд-разработка на React.js](web/javascript/react-js.md)
 
-* [React Native](mobile/react-native.md)
+# Разработка мобильных приложений
 
-### Разработка игр
+**Android**
 
-* [Основы](/base.md)
-* [C#](web/csharp/index.md)
-* [Unity](gamedev/unity.md)
+1.  [Основные инструменты разработчика](/base.md)
+2.  [Создание приложений для Android](mobile/android.md)
+
+**Кросс-платформернные приложения**
+
+1.  React Native (скоро...)
+
+# Разработка видеоигр
+
+1.  [Основные инструменты разработчика](/base.md)
+2.  [Язык программирования C#](web/csharp/index.md)
+3.  [Игровой движок Unity](gamedev/unity.md)

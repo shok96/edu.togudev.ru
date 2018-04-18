@@ -7,12 +7,12 @@
 # Содержание
 
 * Основы
-  * О том, как цвета сочитаются
-  * Цветовой круг от Adobe
+  * ...
 
 <hr />
 
 ## Основы
 
-1.  [О том, как цвета сочетаются](http://popel-studio.com/blog/article/o-tom-kak-cveta-sochetayutsya.html)
-2.  [Цветовой круг от Adobe](https://color.adobe.com/ru/create/color-wheel/)
+1.  [Краткая история веб-дизайна](https://habrahabr.ru/company/web_payment_ru/blog/245153/)
+2.  [Я хочу быть веб-дизайнером, что дальше?](https://youtu.be/PLQic4Bt88A)
+3.  [Базовые Навыки Веб-Дизайнера: Как Быстро Стать Профессионалом](https://youtu.be/EgImRV_h4dc)
